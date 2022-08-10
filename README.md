@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Faysal Ahmed
 #### Web Developer
-![bnr_img!](New Project.png)
+<img src="n1.png" alt="image">
 
 I'm a Front-End Web Developer and Running Student of Computer Science and Engineering.
 
