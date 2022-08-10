@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Faysal Ahmed
 #### Web Developer
-  <img src="https://twitter.com/Ffaysall101/status/1557390100405039104?t=b75IDjFCZqhpviHKl0_lIQ&s=19" alt="image">
+![bnr_img!](New Project.png)
 
 I'm a Front-End Web Developer and Running Student of Computer Science and Engineering.
 
